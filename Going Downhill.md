@@ -1,0 +1,19 @@
+---
+title: Going Downhill
+---
+![[melancholy.jpg]]
+
+# What now?
+
+An untouched storyline was here. I have had high hopes when I first came to UW. Aspired to get into Computer Science, my own incompetence and messed up time management had cost me massive. Mediocre grades with no exceptional experiences, I was not the lucky guy. How many attempt have I made? Was it the only way, acing the introductory courses? Probably not. But would it be worth it to go somewhere other than UW just for the major? I have given up thinking.
+
+---
+[[Photography]]
+[[Planting Design]]
+[[Matrix Algebra]]
+
+---
+[[Logic]]
+[[Landscape Architecture]]
+
+

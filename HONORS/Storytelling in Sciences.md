@@ -1,0 +1,15 @@
+# Story time!
+
+Before this class, presenting was a daunting task that always troubled me. At times, the fear of losing track of the prompt during a presentation would get to my nerves. The last presentation I gave before this quarter was during my Informatics Capstone. It was not even a complete presentation, as I was only responsible for a fraction of it. Still, we struggled to piece together the information, and in the end, we barely managed to match the grading rubric. It was a little sad since I figured we couldn't deliver an engaging exposition I wanted initially. However, that was history.  
+  
+One of the most undeveloped areas before was my ability to speak off-script. This time, for every presentation I gave, I went scriptless. I also deliberately decreased the texts I used to put on my slides. Most importantly, I feel like a great storyteller. From my experience with this class, a good presentation is a good story. A good story does not need excessive texts, but a storyteller who personifies the protagonist (using the four main parts of a story and ABT technique, of course). I am now that storyteller, and I engaged my audience with plot tension, resolution, and appropriate body language. I expressed relevance and invited the listener to an adventure with our protagonist. At last, I concluded my presentation by stating the evidence and pulling the audiences' attention back to data, evidence, and reality.  
+  
+This course has offered more than I ever thought it would. Communication is an essential  
+aspect of human activity that there was an ongoing presentation each time we exchanged  
+words. There is no doubt that I will use these skills everywhere in the future; from meeting  
+friends who share the same interest to developing a report for professional discourse, this skill of crafting a story on the fly is irreplaceable. After all, it is up to us to be the protagonist of our life stories.
+
+![[Storytelling Slides 2.pdf]]
+
+---
+[[Data Science Methods]]

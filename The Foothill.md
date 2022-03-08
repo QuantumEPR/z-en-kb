@@ -1,0 +1,31 @@
+---
+title: Autumn Quarter Reflection
+date: 2017-11-16T17:43:55-07:00
+showDate: true
+publishDate: 2017-11-16
+---
+![rfpaper_au](./images/rfpaper_au.jpg)
+
+# The first quarter of life in UW. Scary yet exciting.
+
+In such a hurry, my autumn quarter at UW has come to a close. Couldn't believe that 3 months ago I was just at the beginning of a new living and study experience. I have set up goals for myself, while I have fulfilled a lot of them, I missed some other opportunities. It comes to me as a threatening fact that the time management in college is so important, and sometimes time only gives you binary decisions regarding what you can do. This alerts me, not only hasten my eagerness on finishing some of my goals in time, but also urges me to seek for other resources in my reach, so that I can choose what, when, where to attend something better to achieve advancements in various fields of studies.
+
+However, I am not regretful. There's always surprises in UW life, no matter what decision I made. It was quite a surprise to me that the badminton club is so welcoming than I expected; it was also surprising to find people I knew before at the same school, since my conncections are generally so faraway; it was also astonishing to experience the class register flood... students are really "fighting" for the spots in those popular classes.
+
+For HONORS 100, the one thing I'm fairly interested in is the wild discussions upon topics that relates multidisciplinary fields together, and also where we can try to comprehend the world on different perspectives.
+
+The one thing that I always remember and want to proceed investigating this quarter is the exploration session of CSE 142. That time when the two speakers talks about how and what to prepare for internship for Microsoft or eventually get into Microsoft really strikes me, leading me to consider gather more information about the events they talked, like hackathon, Dub hacks and so on. I also really like the professor for my L ARCH 212 class, because I got so much expansion in my capacity of imagination due to his fabulous class. I wonder if I can work some interesting topics about Landscape Architecture outside of class, where I may put forth the marvel I found in my fantasies.
+
+At last, since I think that my goals I set in the beginning of the quarter should proceed with consistency throughout the year, and I believed these to be suitable for me, I will keep working on these goals, such as getting better at Badminton, learning how to coordinate the team as a leader. The works I have not been able to start, such as getting Music theory combined with CSE, will be a long term goal. What I now hope to achieve more, is formulate a schedule for the events I want to attend for CSE internships, and also get my hands on Unity 3D so that I may assist one of my friends on a game.
+
+---
+[[Badminton]]
+[[Designing Future]]
+[[Java]]
+[[Memoir...Reflected]]
+
+---
+[[Going Downhill]]
+[[Photography]]
+[[Planting Design]]
+[[Matrix Algebra]]

@@ -1,0 +1,18 @@
+---
+title: Planting Design
+date: 2018-06-10T17:43:55-07:00
+showDate: true
+publishDate: 2018-06-10
+---
+![planting design](images/plant.png)
+
+We human beings have lived with plants for a long time. Plants provide us oxygen, consume carbon dioxide, and serve as a dominant food source. But plants actually give us much more than we thought before. In the course L ARCH 322: Introduction to Planting Design, we get to learn how to identify different spaces that creates desirable environment for people to live in, what kind of plant can convey what kind of presence to people, and through what design could human and environment coexist.
+
+Here are some pictures of our group building a reimageined model for the courtyard next to the Henry Art Gallery on Campus. In this small site, we have honey suckles creating a barrier between the traffic and this space, some paper birch trees for overhead shading, and spaces for outdoor art installations.
+
+![[larch3.JPG]]
+![[larch4.JPG]]
+
+[[Photography]]
+[[Matrix Algebra]]
+[[Going Downhill]]

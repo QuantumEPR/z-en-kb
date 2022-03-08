@@ -1,0 +1,17 @@
+---
+title: Logic
+date: 2019-01-05T17:43:55-07:00
+showDate: true
+publishDate: 2019-01-05
+---
+
+Logic is the foundation of all sciences and mathematical concepts. There is no science if there is no logic. In the pursit of computing related fields, I find myself sometimes unable to keep up with the logical reasoning, and I conclude that I need to prepare myself with a keen, logical mind. Thus, I took PHIL 120: Introduction to Logic, taught by Dr. Conor Mayo-Wilson as the next learning goal. In this course, we get to construct truth trees, form logical statements with sentential logic, and use the powerful first order predicate logic to describe general sentences and evaluate the truthfulness. 
+
+Since I was enrolled in the Honors Section of this course, we got to go over topics that combines logic with other disciplines. Here is the presentation I did for the Honor Section on the relationship between Logic, Decidability, Computability and the Halting Problem in the context of theory of Computation.
+
+![[logic.pdf]]
+
+---
+[[Constructed Languages]]
+[[Landscape Architecture]]
+[[Landscape in PNW]]
