@@ -15,7 +15,7 @@ module.exports = {
     {
       resolve: `gatsby-theme-kb`,
       options: {
-        rootNote: "/init",
+        rootNote: "/Learning%20Statement",
         contentPath: `${__dirname}/..`,
         ignore: [
           "**/_layouts/**",
