@@ -1,10 +1,11 @@
 # Narratives Beyond Reading
 
-This was one course that always gets me excited. I loved games, and nothing beats my passion in experiencing them. INFO 498 C (Special Topics, changes content each year) introduced us many aspects of game. As a media format, we learned about how to describe game mechanics, dynamics, and aesthetics, identify and explain game rhetorics and the community around it. There's more! Games can be information objects just as books and can also take on a knowledge organisation perspective. Game also share concern of user experience and accessibility. The one I liked a lot was gamification and game based learning; I am myself a believer of game being a viable medium of education, since I have learned a lot of vocabulary just from playing games. As my final project I wrote about the game *Inside* by *Playdead*. It was a provocative game that showed me how deep and immersive a narrative one can create with simplistic mechanics, lightly styled aesthetics, and no text/dialog at all. Games are amazing.
+This was one course that always gets me excited. I loved games, and nothing beats my passion in experiencing them. INFO 498 C (Special Topics, changes content each year) introduced us many aspects of game. As a media format, we learned about how to describe game mechanics, dynamics, and aesthetics, identify and explain game rhetorics and the community around it. There's more! Games can be information objects just as books and can also take on a knowledge organisation perspective. Game also share concern of user experience and accessibility. The one I liked a lot was gamification and game based learning; I am myself a believer of game being a viable medium of education, since I have learned a lot of vocabulary just from playing games. As my final project I wrote about the game _Inside_ by _Playdead_. It was a provocative game that showed me how deep and immersive a narrative one can create with simplistic mechanics, lightly styled aesthetics, and no text/dialog at all. Games are amazing.
 
+## Artifacts
 
 ![](../pdfs/Game%20Analysis.pdf)
----
+
 [[Leadership, Democracy and a More Thoughtful Public]]
 [[Metamorphosis]]
 

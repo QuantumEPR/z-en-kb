@@ -4,7 +4,8 @@ date: 2017-11-16T17:43:55-07:00
 showDate: true
 publishDate: 2017-11-16
 ---
-## ART. TECH. MAN. 
+
+## ART. TECH. MAN.
 
 ![](images/arch1.jpg)
 While my intended major in UW is INFO, it does not prevent me from being interested in Landscape Architecture.(L ARCH 212) At first, I imagined it to simply be "drawing buildings"; it's not. It is an interdisplinary field, which combines and elaborates upon all sides from engineering, humanity, aesthetics, politics, and etc. We've done readings, movies, charrettes, and some other approaches to grasp the diverse perspective on current Architecture/Landscape Architecture, different methodologies, ideologies behind urban developments, and ultimately how the keywords "sustainability" and "affordability" can play in harmony with the social/political/cultural diversity.
@@ -16,6 +17,7 @@ Here we visited Westlake Park down in Westlake District. We were taking photos t
 It might seem like a exaggeration, but this class field trip enables me to be more attentive when considering simple designs around our lives. In this case, people walk by Westlake Park everyday, but few ever questioned why there is a children playground, and why it's positioned like so. Based upon my envision, the children's playground is displaced at this corner for two specific intentions: first, a place for children to play around without consuming too much space; second, a calculated angle it forms with the only entrance of this public space limits the movement of vehicles so that in case of aggression, less damage can intrude inward into buildings.
 
 ---
+
 [[Java]]
 [[Badminton]]
 [[Memoir...Reflected]]

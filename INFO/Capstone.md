@@ -3,10 +3,12 @@
 The Informatics Capstone followed a strange pace. There are three stakeholder groups in this setting: the Sponsor, who wanted a product that offers a solution; the iSchool, who wanted a rigorious course with plentiful academic content; the students, who wanted a way to gather experience in a project, connect with industry affliates, and a good grade. The course had a lot to offer and even more to fulfill. We had a team of four, one project manager, two developer and one designer. Each week we had tight schedule. Sometimes we understood the sponsor would like us to attempt at building a feature while we had doubts/questions in the plan. Afterall, we wanted to take ownership of our project. We took time to study the context of the problem space, the target audience, and the viability of our ideas. We combined In the end, we developed a web portal, coupled with assistive tools for Speech Language Pathologist to perform teletherapy for patients. At its fruition, all parties were pleased to see the result.
 
 ## Artifacts
+
 [Presentation](https://www.youtube.com/watch?v=V1Bylxc6OjI)
 ![](../pdfs/Research%20Information.pdf)
 
 ---
+
 [[Storytelling in Sciences]]
 [[Data Science Methods]]
 
