@@ -5,7 +5,7 @@ The Informatics Capstone followed a strange pace. There are three stakeholder gr
 ## Artifacts
 
 [Presentation](https://www.youtube.com/watch?v=V1Bylxc6OjI)
-[](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/Research%20Information.pdf)
+[Research Information](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/Research%20Information.pdf)
 ---
 
 [[Storytelling in Sciences]]

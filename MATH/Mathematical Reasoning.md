@@ -4,7 +4,7 @@ This is one of my proudest learning artifact. It is a token of my journey's begi
 
 ## Artifacts
 
-[](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/MATH_300.pdf)
+[MATH 300](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/MATH_300.pdf)
 
 ---
 
