@@ -6,7 +6,7 @@ This was a class focused on various abstractions. I learned a lot, from symmetri
 
 ## Artifacts
 
-![](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/MATH_403.pdf)
+[](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/MATH_403.pdf)
 
 [[Design Methods]]
 [[Capstone]]

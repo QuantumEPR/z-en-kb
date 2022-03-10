@@ -4,7 +4,7 @@ This was one course that always gets me excited. I loved games, and nothing beat
 
 ## Artifacts
 
-![](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/Game%20Analysis.pdf)
+[](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/Game%20Analysis.pdf)
 
 ---
 

@@ -11,7 +11,7 @@ friends who share the same interest to developing a report for professional disc
 
 ## Artifact
 
-![](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/Storytelling%20Slides%202.pdf)
+[](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/Storytelling%20Slides%202.pdf)
 
 ---
 
