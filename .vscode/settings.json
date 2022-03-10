@@ -12,7 +12,7 @@
       "strings": false
     }
   },
-  "cSpell.language": "en-GB",
+  "cSpell.language": "en-US",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "spellright.language": [
