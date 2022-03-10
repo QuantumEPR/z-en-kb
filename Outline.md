@@ -11,7 +11,7 @@
 9. I had high hopes, but I had many failures along the way.
 10. These failures were partly due to the lack of a solid foundation and pushed me to take classes that I may not have experienced if I had not been pushed off my straight journey toward the CS degree. This portfolio showcases some of my failures and the surprising insights and successes that came toward the end of my time at UW when my time was running out.
 
-My GPA was hit hard by the introductory classes. One of the major turning points was Matrix Algebra (show page with an image).
+11. My GPA was hit hard by the introductory classes. One of the major turning points was Matrix Algebra (show page with an image).
 
 # Going Downhill
 
@@ -62,6 +62,4 @@ My GPA was hit hard by the introductory classes. One of the major turning points
 
 # The Summit
 
-1. Worked as a student assistant developer at CIP
-2. Relax, and enjoy the classes
-3. Persistence have made me stronger
+1. Here I'm back, ending my time at UW in HONORS 496. Gratified at my time in Mathematics, Informatics, and Honors, I find all of them had prepared me for future academic work in my path to pursuit Computer Science. I feel much more resilient as I've worked my way through all the failures, challenges and eventually success. The biggest takeaway? Persistance makes way I'd say. There's always multiple ways to your goal, and you just have to keep trying.
