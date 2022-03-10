@@ -1,8 +1,8 @@
 # Pacman: Journey's End
 
-![](../images/ai.png)
+![](images/ai.png)
 
-![](../iamges/pacman.png)
+![](images/pacman.png)
 
 ---
 

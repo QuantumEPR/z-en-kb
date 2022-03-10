@@ -5,7 +5,7 @@ showDate: true
 publishDate: 2018-03-06
 ---
 
-![](../images/rfpaper1.JPG)
+![](images/rfpaper1.JPG)
 
 Before I took this class, I did not have a specific approach to writing papers. Though I had
 studied AP English Language and Composition in high school, the rhetorical analysis certainly does not help. So, I started my writing process by doing random flashbacks in my head. Sometimes I lie on the bed, sometimes walking aimlessly, just to bring myself into a tranquil state, where I can dig deep down my well of consciousness, to search for the past and the emotions accompanied it. This process is unbelievably enjoyable: I can be simply wandering in my casual daydreams (which is what I do all the time,) be able to pick up pebbles of forgotten memories and become so relieved as I put these images down into words. Moreover, I do deliberate imitations of the authors we have read, like Tobias Wolff and Michael Ondaatje, and I find their techniques masterful and improve my writings dramatically. It’s also amazing to see how the themes of “travel” and “memoir” fit so well

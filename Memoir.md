@@ -5,7 +5,7 @@ showDate: true
 publishDate: 2018-03-06
 ---
 
-![](../images/mem1.jpg)
+![](images/mem1.jpg)
 
 ## HONORS 345 - A Memoir
 
@@ -29,7 +29,7 @@ Despite, I was there with nothing other than money and myself. No friends to tak
 
 ---
 
-![](../images/sh1.jpg)
+![](images/sh1.jpg)
 
 ### Strange beginning of a familiar journey
 
@@ -49,7 +49,7 @@ I have plenty of time to waste. Filled with boredom, I got up according to the t
 The breakfast was quiet, except that my father mentioned whether I had any plan for the day. I shook my head hesitantly, and started to think about the things I could do. Chewing some preserved vegetables with rice porridge, my mind was set to fly; images blinded me like snow. The various screeching sounds of electric scooters, the constant banging from the construction sites, the people on the pedestrian path walk as fast as a race and adults flooding off buses and subways like a dam just had a flood discharge, and the Shanghai Oriental TV Tower radiating different lights piercing through curtains, which I had to get used to again. It was so irritating. The sudden flash of lightning on skyscrapers, followed by the cracking roar of thunder, then the inevitable rain drops was splattering on the ground in weird Prestissimo rhythms, like the sky has pointed a machine gun to this city, shamelessly spraying through the cloud. The sizzling sound of egg frying among the breakfast shops, and the people jaywalking across the street just for their favorite breakfast place.
 I had known all of these. I could wake up and tell you all these details of the city, yet having no excitement whatsoever about coming back. Recovered from the dazzling daydream, I have decided my plan. I had lost something, something that made me feel like I belonged, and I was going to take it back.
 
-![](../images/sh2.jpg)
+![](images/sh2.jpg)
 
 ### Ancient Sunshine
 
