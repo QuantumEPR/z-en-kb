@@ -15,7 +15,7 @@ The following is a Linguistic Memoir in which I recall and discover all the infl
 
 ## Artifact
 
-[Linguistics](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/linguistic.pdf)
+[Linguistics](https://github.com/QuantumEPR/z-en-kb/blob/master/pdfs/linguistics.pdf)
 
 ---
 
